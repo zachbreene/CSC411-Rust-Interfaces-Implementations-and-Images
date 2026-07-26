@@ -1,0 +1,22 @@
+C. Wyatt Polasek & Zach Breene
+Assignment 2 - iii
+Part C - Programming Technique
+
+Test-Driven Development
+
+    Test-Driven Development, or TDD, is essentially the opposite of how programming is usually done. 
+Rather than first developing code and creating tests to ensure it works, with TDD you would start by 
+creating the tests and then begin writing the functional code. This programming technique can make the 
+earlier stages of development much faster since you already know what your end goal should be.
+
+    Using TDD can provide a number of advantages. Primarily, it leads to better code quality by ensuring
+every function or feature is tested, making code more reliable and maintainable. Having pre-written tests 
+also allows for immediate feedback, catching errors as soon as code is written or changed. By focusing on 
+the end goals of your program, TDD helps to provide clear steps in the right direction.
+
+    The implementation of this technique when programming is fairly straightforward. With the end 
+requirements in mind, you start by designing a test or tests that ultimately meet those requirements. 
+After the tests are set up, you can then start working on the code that provides functionality to the 
+program. Once finished with the functional code, the tests will already be set up and ready to test 
+what you have. If the tests fail, you are given instant feedback as to what the error may be. If the 
+tests pass on the other hand, then your program is complete.
