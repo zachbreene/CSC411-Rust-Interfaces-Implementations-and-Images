@@ -1,5 +1,5 @@
 <h1 align=center> Interfaces, Implementations, and Images </h1>
-<h2 align=center> A CSC 411 Assignment by Zach Breene & C. Wyatt Polasek </h2>
+<h2 align=center> A CSC 411: Computer Organization Assignment by Zach Breene & C. Wyatt Polasek </h2>
 <h4 align=center> Created at the University of Rhode Island, September 2023 </h4>
 
 ## Introduction
